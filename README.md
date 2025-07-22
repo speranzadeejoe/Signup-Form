@@ -69,8 +69,8 @@ signup-form/
 
 ## 🖼️ Screenshot
 
-![Signup Page Screenshot](<img width="1914" height="968" alt="image" src="https://github.com/user-attachments/assets/b7965c8b-8770-4771-96b4-7b177baa7ed3" />
-)
+<img width="1914" height="968" alt="image" src="https://github.com/user-attachments/assets/b7965c8b-8770-4771-96b4-7b177baa7ed3" />
+
 
 ---
 
